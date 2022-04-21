@@ -1,4 +1,4 @@
-<div align="center"><img width="700"  src="https://user-images.githubusercontent.com/33532467/164368367-d6be488a-6ee9-4701-8e28-2597cac61656.png"></div>
+<div align="center"><a href="https://www.pickmyclass.com/"><img width="700" src="https://user-images.githubusercontent.com/33532467/164368367-d6be488a-6ee9-4701-8e28-2597cac61656.png"></a></div>
 
 [Click here to go to the app!](https://www.pickmyclass.com/)
 
@@ -26,7 +26,7 @@ Sadly, many universities do not provide an easy way to answer these critical que
 
 Not exactly convenient. This is due to two problems: the tools a student needs to access are not _centralized_ in one place (like one webpage), and they don't provide _personalized_ material.
 
-<div align="center"><img width="700" src="https://user-images.githubusercontent.com/33532467/164365430-3c2bcff5-19be-4565-894e-5363f3a19510.png" href="https://www.pickmyclass.com/"></div>
+<div align="center"><img width="700" src="https://user-images.githubusercontent.com/33532467/164365430-3c2bcff5-19be-4565-894e-5363f3a19510.png"></div>
 
 PickMyClasses provides a solution to these problems while introducing additional useful features. It is novel and valuable by
 
