@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: [About PickMyClasses]
-description: [everything a student needs to succeed in picking classes]
+description:
+  [a website that has everything a student needs to succeed in picking classes]
 github:
   is_project_page: false
