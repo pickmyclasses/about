@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: [PickMyClasses]
+title: [About PickMyClasses]
 description: [a web-based application that assists college students in the process of choosing classes]
-is_project_page: false
+github:
+  is_project_page: false
