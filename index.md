@@ -26,7 +26,7 @@ Sadly, many universities do not provide an easy way to answer these critical que
 
 Not exactly convenient. This is due to two problems: the tools a student needs to access are not _centralized_ in one place (like one webpage), and they don't provide _personalized_ material.
 
-<div align="center"><img width="700"  src="https://user-images.githubusercontent.com/33532467/164365430-3c2bcff5-19be-4565-894e-5363f3a19510.png"></div>
+<div align="center"><img width="700" src="https://user-images.githubusercontent.com/33532467/164365430-3c2bcff5-19be-4565-894e-5363f3a19510.png" href="https://www.pickmyclass.com/"></div>
 
 PickMyClasses provides a solution to these problems while introducing additional useful features. It is novel and valuable by
 
@@ -40,7 +40,7 @@ Follow our quick [Tutorials](/tutorials.md) to give PickMyClasses a try for your
 
 ### Techical Aspects
 
-<div align="center"><img width="700"  src="https://user-images.githubusercontent.com/33532467/164365661-79f3acda-a65a-403c-b3ed-5d848033a25a.png"></div>
+<div align="center"><img width="700" src="https://user-images.githubusercontent.com/33532467/164365661-79f3acda-a65a-403c-b3ed-5d848033a25a.png"></div>
 
 PickMyClasses is an interactive web application with scalable and robust service support, and our team is organized to build a product like this.
 
