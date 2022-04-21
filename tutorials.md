@@ -4,19 +4,19 @@ Return to [Introduction](/index.md)
 
 ### Creating PickMyClasses account
 
-1.  [Go to the app](https://www.pickmyclass.com/).
+- [Go to the app](https://www.pickmyclass.com/).
 
-2.  To access personalized material, sign up for an account by clicking "Register now!"
+- To access personalized material, sign up for an account by clicking "Register now!"
 
-3.  Under the words **Sign Up**, enter your personal information and click **Sign Up**.
+- Under the words **Sign Up**, enter your personal information and click **Sign Up**.
 
-   <div align="center"><img  width="700" src="https://user-images.githubusercontent.com/33532467/164288542-4fe168bf-f5ff-41f3-80af-90a1a207780c.png"></div>
+<div align="center"><img  width="700" src="https://user-images.githubusercontent.com/33532467/164288542-4fe168bf-f5ff-41f3-80af-90a1a207780c.png"></div>
 
-4.  Tell us about your major and the year you're in.
+- Tell us about your major and the year you're in.
 
-   <div align="center" ><img width="700" src="https://user-images.githubusercontent.com/33532467/164291287-09630821-7b8a-4265-a2e9-13f8857f73b5.png"></div>
+<div align="center" ><img width="700" src="https://user-images.githubusercontent.com/33532467/164291287-09630821-7b8a-4265-a2e9-13f8857f73b5.png"></div>
 
-5.  Click "Start now!" and you should be redirected to the website's home page.
+- Click "Start now!" and you should be redirected to the website's home page.
 
 ---
 
