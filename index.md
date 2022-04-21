@@ -8,23 +8,23 @@ Or check out a [quick tutorial](/tutorials.md) and see [who we are](/about.md).
 
 ### Motivation
 
-"What classes should I take next semester?"
+_"What classes should I take next semester?"_
 
-"Will this class help me reach my career goals?"
+_"Will this class help me reach my career goals?"_
 
-"Do these classes fit well with my work and gym schedules?"
+_"Do these classes fit well with my work and gym schedules?"_
 
 These are probably the most important questions all college students encounter, throughout their academic life, in every single semester.
 
 Sadly, many universities do not provide an easy way to answer these critical questions. Like in our university, the registration system is scattered all over the place. Currently, this is how a student typically registers for a course:
 
-1. Check her degree audit to know what requirements she needs to fulfill
-2. Browse the course catalog to find a course that sounds interesting to her
-3. If she wants some course recommendations, talk to her advisors that don't know her very well
-4. Use the schedule builder to see if the course works well with her schedule
-5. Jump to the course registration system to register for the course
+1. Check her **degree audit** to know what requirements she needs to fulfill
+2. Browse the **course catalog** to find a course that sounds interesting to her
+3. If she wants some course recommendations, talk to her **advisors** that don't know her very well
+4. Use the **schedule builder** to see if the course works well with her schedule
+5. Jump to the **course registration** system to register for the course
 
-Not exactly convenient. This is due to two problems: the tools are not centralized in one place (one webpage), and they don't provide personalized material.
+Not exactly convenient. This is due to two problems: the tools a student needs to access are not _centralized_ in one place (like one webpage), and they don't provide _personalized_ material.
 
 <div align="center"><img width="700"  src="https://user-images.githubusercontent.com/33532467/164365430-3c2bcff5-19be-4565-894e-5363f3a19510.png"></div>
 
