@@ -12,7 +12,7 @@ Return to [Introduction](/index.md)
 
 - Role: backend infrastructure(Go), database administration(Redis, Postgres, Neo4j, ElasticSearch), frontend(React.js)
 - Background: mainly focus on distributed system design, distributed storage, enthusiastic about building
-  high traffic torrance systems for model apps. I pay my time to learn, and always willing to learn new things.
+  high traffic falut-tolerant systems for model apps. I pay my time to learn, and always willing to learn new things.
 - Education: University of Utah Computer Science B.S degree
 - Seeking opportunities, always ready to Go
 - Root for PickMyClasses!
