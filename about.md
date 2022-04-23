@@ -1,8 +1,6 @@
+_[← Back to introduction](/index.md)_
+
 ## Team Members
-
-Return to [Introduction](/index.md)
-
----
 
 <div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164355755-d38e15c2-cfed-4532-8468-4fcb705c3891.png"></div>
 
