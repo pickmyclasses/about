@@ -1,6 +1,6 @@
-## How to Use PickMyClasses
+_[← Back to introduction](/index.md)_
 
-Return to [Introduction](/index.md)
+## How to Use PickMyClasses
 
 ### Creating PickMyClasses account
 
