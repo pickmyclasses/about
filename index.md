@@ -1,6 +1,8 @@
-
 <!-- [![](https://img.youtube.com/vi/YfmmqetULhg/0.jpg)](https://youtu.be/YfmmqetULhg) -->
 <div align="center"><a href="https://youtu.be/YfmmqetULhg"><img width="700" src="https://img.youtube.com/vi/YfmmqetULhg/0.jpg"></a></div>
+<div align="center">Video Demo</div>
+
+---
 
 [**Click here to go to the app!**](https://www.pickmyclass.com/)
 
