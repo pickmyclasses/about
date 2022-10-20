@@ -1,6 +1,4 @@
-<!-- [![](https://img.youtube.com/vi/YfmmqetULhg/0.jpg)](https://youtu.be/YfmmqetULhg) -->
-<div align="center"><a href="https://youtu.be/YfmmqetULhg"><img width="700" src="https://img.youtube.com/vi/YfmmqetULhg/0.jpg"></a></div>
-<div align="center">Video Demo</div>
+{% include youtube.html id=”YfmmqetULhg” %}
 
 ---
 
