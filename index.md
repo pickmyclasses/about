@@ -1,6 +1,8 @@
-<div align="center"><a href="https://www.pickmyclass.com/"><img width="700" src="https://user-images.githubusercontent.com/33532467/164368367-d6be488a-6ee9-4701-8e28-2597cac61656.png"></a></div>
 
-[Click here to go to the app!](https://www.pickmyclass.com/)
+<!-- [![](https://img.youtube.com/vi/YfmmqetULhg/0.jpg)](https://youtu.be/YfmmqetULhg) -->
+<div align="center"><a href="https://youtu.be/YfmmqetULhg"><img width="700" src="https://img.youtube.com/vi/YfmmqetULhg/0.jpg"></a></div>
+
+[**Click here to go to the app!**](https://www.pickmyclass.com/)
 
 Or check out a [quick tutorial](/tutorials.md) and see [who we are](/about.md).
 
@@ -48,3 +50,5 @@ PickMyClasses is an interactive web application with scalable and robust service
 - In addition, we leverage various visualization and chart libraries to produce data representations for users to review the contents instantly.
 - To build robust backend support, we use Go to build our APIs and other middlewares as assistants.
 - Besides the minimum services, we also offered a recommendation system based on students’ profiles. The platform is hosted on AWS to be accessible for the users.
+
+<div align="center"><a href="https://www.pickmyclass.com/"><img width="700" src="https://user-images.githubusercontent.com/33532467/164368367-d6be488a-6ee9-4701-8e28-2597cac61656.png"></a></div>
