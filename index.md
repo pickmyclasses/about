@@ -1,10 +1,29 @@
-{% include youtube.html id=”YfmmqetULhg” %}
+{% include youtube.html id='YfmmqetULhg' %}
 
 ---
 
 [**Click here to go to the app!**](https://www.pickmyclass.com/)
 
 Or check out a [quick tutorial](/tutorials.md) and see [who we are](/about.md).
+
+--
+
+### Gallery
+
+ <div align="center"><img  width="700" src="https://user-images.githubusercontent.com/33532467/164290608-7a8abe52-ec5a-4fb6-8fd2-6358c33ea189.png"></div>
+<p align="center">Personalized course recommandations</p>
+&nbsp;
+
+ <div align="center"><img width="700" src="https://user-images.githubusercontent.com/33532467/164291896-199a5d9b-95ee-4eb9-992c-8da59e4f88da.png"></div>
+<p align="center">Overview of a course</p>
+&nbsp;
+
+<div align="center"><img width="700" src="https://user-images.githubusercontent.com/33532467/164292431-82a7bbe9-e795-45f7-bef9-e128d719203f.png"></div>
+<p align="center">Reviews from the past students</p>
+&nbsp;
+
+ <div align="center"><img width="700" src="https://user-images.githubusercontent.com/33532467/164292615-a31ee439-aaba-4619-86b2-dc1ccc102f0f.png"></div>
+<p align="center">Course registerer and schedule builder</p>
 
 ---
 
